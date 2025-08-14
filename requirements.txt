@@ -1,0 +1,5 @@
+streamlit
+requests
+aiohttp
+google-generativeai
+flask
